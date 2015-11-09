@@ -1,0 +1,91 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	margin-bottom: 108px;
+	margin-top: 40px;
+}
+
+.footer {
+	height: 108px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+.bg-hq {background-color: #E67E22;}
+.bg-check {background-color: #2ECC71;}
+.bg-fix {background-color: #3498DB;}
+.bg-photy {background-color: #9B59B6;}
+.bg-credit {background-color: #E74C3C;}
+
+.product-tile {
+	color: white;
+	padding: 0px;
+	padding: 20px;
+	text-align: center;
+	min-height: 4x§00px;
+}
+
+.product-tile h1 {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	text-align: center;
+	font-size: 25px;
+	font-weight: normal;
+	padding-bottom: 20px;
+}
+
+.product-tile img {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: block;
+}
+
+.product-tile .description {
+	text-align: left;
+}
+
+.product-tile p {
+	font-size: 16px;
+}
+
+.product-tile .learn-more {
+	padding-left: auto;
+	padding-right: auto;
+	text-align: center;
+}
+
+.backdrop-container {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.hero-unit {
+	color: white;
+	text-align: center;
+	width: 100%;
+	padding: 40px;
+}
+
+.hero-unit h1 {
+	font-size: 50px;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+
+.hero-unit h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.btns {
+	padding-left: auto;
+	padding-right: auto;
+	text-align: center;
+}
