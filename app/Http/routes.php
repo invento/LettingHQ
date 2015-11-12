@@ -11,7 +11,7 @@
 |
 */
 
-Route::controller('/', 'HQController');
-Route::controller('LettingCheck', 'LettingCheckController');
-Route::controller('LettingFix', 'LettingFixController');
+Route::controller('LettingCheck', 'LCController');
+Route::controller('LettingFix', 'LFController');
 Route::controller('Photy', 'PhotyController');
+Route::controller('/', 'HQController');

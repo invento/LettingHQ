@@ -19,7 +19,7 @@
 
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-4 bg-check product-tile">
+                <div class="col-md-4 bg-lc product-tile">
                     <h1>LettingCheck</h1>
                     <div class="row">
                         <div class="col-lg-7 description">
@@ -28,11 +28,11 @@
                             <p><span class="fui-document"></span> Automatic Comparison and Checkout reports</p>
                             <p><span class="fui-list-bulleted"></span> Reports available instantly to print, email or edit</p>
                         </div>
-                        <div class="col-lg-5"><img src="/images/lettingcheck/ipad-rooms.png" class="img-responsive" /></div>
+                        <div class="col-lg-5"><img src="{{ asset('/images/lettingcheck/ipad-rooms.png') }}" class="img-responsive" /></div>
                     </div>
                     <a class="btn btn-huge btn-inverse learn-more" href="#"></span> Learn More</a>
                 </div>
-                <div class="col-md-4 bg-fix product-tile">
+                <div class="col-md-4 bg-lf product-tile">
                     <h1>LettingFix</h1>
                     <p>Some text</p>
                     <a class="btn btn-huge btn-inverse" href="#"></span> Learn More</a>
